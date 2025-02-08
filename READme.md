@@ -1,6 +1,9 @@
 Deployment = https://ansh-final-submittion.streamlit.app/
 
 Crop and Fertilizer Recommendation System 🌾
+
+
+
 Welcome to the Crop and Fertilizer Recommendation System! This tool is designed to help farmers and agricultural enthusiasts make smarter decisions about crop selection and fertilizer use based on soil and environmental conditions. Whether you're looking to boost your crop yield or reduce fertilizer waste, this system provides you with valuable insights to optimize your farming practices. 🌱
 
 Key Features:
